@@ -79,14 +79,14 @@ Estudando há mais de 1 mes na área de Desenvolvimento Web e Mobile, enxergo a 
 
 <div style="display: inline_block"><br> 
 
-  <img align="center" alt="guthierre-windows" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-plain.svg">
+  <img align="center" alt="guthierre-linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
 </div>
 
   
 ### 💻 Desempenho no Github
 
 <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guthierre6&amp;theme=radical">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guthierre&amp;theme=radical">
 </div>
 
 
