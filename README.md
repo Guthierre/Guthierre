@@ -13,11 +13,11 @@
   
 ### 📖 Sobre mim
 
-Estudando há mais de 3 meses na área de Desenvolvimento Web e Mobile, enxergo a TI como grande ponto de propulsão para o negócio. Tive a oportunidade de criar projetos acadêmicos e pessoais para aprimorar boas praticas de arquitetura no padrão MVC e procedural com a intenção de adquirir experiência e resolução de problemas com vários assuntos da vida. Utilizando as seguintes tecnologias 
+Estudando há mais de 1 mes na área de Desenvolvimento Web e Mobile, enxergo a TI como grande ponto de propulsão para o negócio. Tive a oportunidade de criar projetos acadêmicos e pessoais para aprimorar boas praticas de arquitetura no padrão MVC e procedural com a intenção de adquirir experiência e resolução de problemas com vários assuntos da vida. Utilizando as seguintes tecnologias 
 
 </details>
 
-![Gustavo github stats](https://github-readme-stats.vercel.app/api?username=ghdss26&show_icons=true&theme=dracula)
+![Guthierre github stats](https://github-readme-stats.vercel.app/api?username=guthierre&show_icons=true&theme=dracula)
 
 ## Tecnologias mais utilizadas
 
